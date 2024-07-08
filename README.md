@@ -15,7 +15,69 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-_This part must be filled by participants with the technical clarifications about the code: which modules the code consists of, how they are related to the electromechanical components of the vehicle, and what is the process to build/compile/upload the code to the vehicle’s controllers._
+In an era of rapid technological advancements, we introduce the DEElubyo bot, a self-driving robot made entirely of LEGOs, designed to detect and avoid red and green obstacles. This innovative vehicle addresses critical transportation issues, particularly vehicle collisions caused by human error, distraction, and poor visibility. By demonstrating the potential of autonomous systems to enhance safety and decision-making, this project highlights the importance of STEM education and inspires future engineers to tackle transportation challenges, underscoring the role of technology in creating safer roads and a more efficient future.
+
+## Team Details
+
+**Builder:** Dushiel A. Gelido       
+
+**Coder:** Emmanuel Kristoffer O. Jacob
+
+**Researcher:** Enraig G. Gacosta     
+
+## Team Photo
+
+**Official Photo**
+
+**Funny Photo**
+
+## Robot Design
+
+**3D Model**
+
+**Schematic Diagram**
+
+**Actual Model**
+
+## Materials (Components)
+
+**Key Components of the DEElubyo Bot:**
+
+**Chassis:** 
+
+Holds multiple parts of the robot together, providing a sturdy framework that ensures the structural integrity of the entire vehicle.
+
+**Differential (Steering Mechanism):** 
+
+Responsible for turning the front wheels, allowing the robot to steer and navigate through its environment. This mechanism enables the robot to make precise turns and maneuver around obstacles effectively.
+
+**Servo Motor:** 
+
+Connected to the steering mechanism, it controls its movement. By adjusting the angle of the front wheels, the servo motor allows the robot to change direction as needed.
+
+**DC Motor:** 
+
+Drives the rear wheels, providing the necessary power to propel the robot forward. This motor ensures that the robot can move at a consistent speed and handle various terrains.
+
+**Wheels:** 
+
+Enable the robot to move. The front wheels are steered by the differential and servo motor, while the rear wheels are driven by the DC motor.
+
+**Camera:** 
+
+Serves as the robot's eyes, identifying and avoiding obstacles in its path. By processing visual data, the camera helps the robot detect red and green obstacles, enabling it to make informed decisions to avoid collisions.
+
+**Microcontroller:** 
+
+Acts as the main brain of the robot, processing data from the camera and other sensors. It makes decisions based on this data and sends commands to the motors and steering mechanism, ensuring smooth and safe operation.
+
+**Battery:** 
+
+The primary power source for the robot, supplying energy to all its modules. It ensures that the robot has the necessary power to operate its motors, camera, microcontroller, and other components effectively.
+
+## Code
+
+
 
 ## How to prepare the repo based on the template
 
