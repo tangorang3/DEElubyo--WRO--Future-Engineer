@@ -59,9 +59,13 @@ Responsible for turning the front wheels, allowing the robot to steer and naviga
 
 Connected to the steering mechanism, it controls its movement. By adjusting the angle of the front wheels, the servo motor allows the robot to change direction as needed.
 
+![servo](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b5172c78027737333dd0192c2d5283dd9a0bc72/other/Screenshot%202024-07-09%20123904.png)
+
 **DC Motor:** 
 
 Drives the rear wheels, providing the necessary power to propel the robot forward. This motor ensures that the robot can move at a consistent speed and handle various terrains.
+
+![dc](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b5172c78027737333dd0192c2d5283dd9a0bc72/other/Screenshot%202024-07-09%20123839.png)
 
 **Wheels:** 
 
@@ -71,13 +75,25 @@ Enable the robot to move. The front wheels are steered by the differential and s
 
 Serves as the robot's eyes, identifying and avoiding obstacles in its path. By processing visual data, the camera helps the robot detect red and green obstacles, enabling it to make informed decisions to avoid collisions.
 
+![camera](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b5172c78027737333dd0192c2d5283dd9a0bc72/other/Screenshot%202024-07-09%20123753.png)
+
 **Microcontroller:** 
 
 Acts as the main brain of the robot, processing data from the camera and other sensors. It makes decisions based on this data and sends commands to the motors and steering mechanism, ensuring smooth and safe operation.
 
+![mcont](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b5172c78027737333dd0192c2d5283dd9a0bc72/other/Screenshot%202024-07-09%20124029.png)
+
 **Battery:** 
 
 The primary power source for the robot, supplying energy to all its modules. It ensures that the robot has the necessary power to operate its motors, camera, microcontroller, and other components effectively.
+
+![batt](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b5172c78027737333dd0192c2d5283dd9a0bc72/other/Screenshot%202024-07-09%20123947.png)
+
+**Integrated Gray Scale Sensor:**
+
+Identifies colors on the mat, serving as an additional tool for distinguishing between different shades and colors to enhance obstacle detection and navigation.
+
+![ir](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b5172c78027737333dd0192c2d5283dd9a0bc72/other/Screenshot%202024-07-09%20123502.png)
 
 ## Code
 
