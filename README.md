@@ -60,6 +60,8 @@ Holds multiple parts of the robot together, providing a sturdy framework that en
 
 Responsible for turning the front wheels, allowing the robot to steer and navigate through its environment. This mechanism enables the robot to make precise turns and maneuver around obstacles effectively.
 
+![diff](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/e59bf023bb74b19ed1200084c0e6a2508480de1c/other/Screenshot%202024-07-11%20121436.png)
+
 **Servo Motor:** 
 
 Connected to the steering mechanism, it controls its movement. By adjusting the angle of the front wheels, the servo motor allows the robot to change direction as needed.
