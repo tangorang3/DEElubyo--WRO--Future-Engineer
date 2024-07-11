@@ -43,6 +43,8 @@ In an era of rapid technological advancements, we introduce the DEElubyo bot, a 
 
 **Actual Model**
 
+![actmodel](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/28103a7179e8929c8061afcaf37504025f59bc93/v-photos/Screenshot%202024-07-11%20115741.png) 
+
 ## Materials (Components)
 
 **Key Components of the DEElubyo Bot:**
