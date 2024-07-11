@@ -47,11 +47,14 @@ In an era of rapid technological advancements, we introduce the DEElubyo bot, a 
 
 ## Materials (Components)
 
-**Key Components of the DEElubyo Bot:**
+**Key Components of the DEElubyo Bot:**   
+
 
 **Chassis:** 
 
 Holds multiple parts of the robot together, providing a sturdy framework that ensures the structural integrity of the entire vehicle.
+
+![chassis](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/7d73f8a77f737c6af936283065394fe5c97db006/other/Screenshot%202024-07-11%20120700.png)
 
 **Differential (Steering Mechanism):** 
 
