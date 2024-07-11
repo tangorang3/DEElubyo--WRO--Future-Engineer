@@ -71,6 +71,8 @@ Drives the rear wheels, providing the necessary power to propel the robot forwar
 
 Enable the robot to move. The front wheels are steered by the differential and servo motor, while the rear wheels are driven by the DC motor.
 
+![wheels](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/62c3faea826398e1a21b1945e9774c61b0f557ca/other/Screenshot%202024-07-09%20152316.png)
+
 **Camera:** 
 
 Serves as the robot's eyes, identifying and avoiding obstacles in its path. By processing visual data, the camera helps the robot detect red and green obstacles, enabling it to make informed decisions to avoid collisions.
