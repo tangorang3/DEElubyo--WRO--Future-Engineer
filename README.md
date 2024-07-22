@@ -50,25 +50,25 @@ In an era of rapid technological advancements, we introduce the DEElubyo bot, a 
 **Key Components of the DEElubyo Bot:**   
 
 
-**Chassis:** 
+**LEGO Chassis:** 
 
 Holds multiple parts of the robot together, providing a sturdy framework that ensures the structural integrity of the entire vehicle.
 
-![chassis](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/7d73f8a77f737c6af936283065394fe5c97db006/other/Screenshot%202024-07-11%20120700.png)
+![chassis]()
 
 **Differential (Steering Mechanism):** 
 
 Responsible for turning the front wheels, allowing the robot to steer and navigate through its environment. This mechanism enables the robot to make precise turns and maneuver around obstacles effectively.
 
-![diff](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/e59bf023bb74b19ed1200084c0e6a2508480de1c/other/Screenshot%202024-07-11%20121436.png)
+![diff]()
 
-**Servo Motor:** 
+**5V Simulated Steering Module:** 
 
 Connected to the steering mechanism, it controls its movement. By adjusting the angle of the front wheels, the servo motor allows the robot to change direction as needed.
 
 ![servo](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b5172c78027737333dd0192c2d5283dd9a0bc72/other/Screenshot%202024-07-09%20123904.png)
 
-**DC Motor:** 
+**7.4V Ordinary Motor Module:** 
 
 Drives the rear wheels, providing the necessary power to propel the robot forward. This motor ensures that the robot can move at a consistent speed and handle various terrains.
 
@@ -80,29 +80,23 @@ Enable the robot to move. The front wheels are steered by the differential and s
 
 ![wheels](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/62c3faea826398e1a21b1945e9774c61b0f557ca/other/Screenshot%202024-07-09%20152316.png)
 
-**Camera:** 
+**SEN0305-S Husky Lens :** 
 
 Serves as the robot's eyes, identifying and avoiding obstacles in its path. By processing visual data, the camera helps the robot detect red and green obstacles, enabling it to make informed decisions to avoid collisions.
 
-![camera](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b5172c78027737333dd0192c2d5283dd9a0bc72/other/Screenshot%202024-07-09%20123753.png)
+![camera]()
 
-**Microcontroller:** 
+**Arduino Uno R3:** 
 
 Acts as the main brain of the robot, processing data from the camera and other sensors. It makes decisions based on this data and sends commands to the motors and steering mechanism, ensuring smooth and safe operation.
 
-![mcont](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b5172c78027737333dd0192c2d5283dd9a0bc72/other/Screenshot%202024-07-09%20124029.png)
+![mcont]()
 
-**Battery:** 
+**Lithium Battery Module:** 
 
 The primary power source for the robot, supplying energy to all its modules. It ensures that the robot has the necessary power to operate its motors, camera, microcontroller, and other components effectively.
 
 ![batt](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b5172c78027737333dd0192c2d5283dd9a0bc72/other/Screenshot%202024-07-09%20123947.png)
-
-**Integrated Gray Scale Sensor:**
-
-Identifies colors on the mat, serving as an additional tool for distinguishing between different shades and colors to enhance obstacle detection and navigation.
-
-![ir](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b5172c78027737333dd0192c2d5283dd9a0bc72/other/Screenshot%202024-07-09%20123502.png)
 
 ## Code
 
