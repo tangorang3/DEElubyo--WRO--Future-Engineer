@@ -94,6 +94,10 @@ The primary power source for the robot, supplying energy to all its modules. It 
 
 ![batt](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b5172c78027737333dd0192c2d5283dd9a0bc72/other/Screenshot%202024-07-09%20123947.png)
 
+**DC to DC LM2596S Buck Converter**
+
+
+
 ## Code
 
 
