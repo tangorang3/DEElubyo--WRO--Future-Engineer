@@ -84,7 +84,7 @@ Enable the robot to move. The front wheels are steered by the differential and s
 
 Serves as the robot's eyes, identifying and avoiding obstacles in its path. By processing visual data, the camera helps the robot detect red and green obstacles, enabling it to make informed decisions to avoid collisions.
 
-![camera]()
+![camera](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/53d769406da8ff102def24d6fcc7b31851dffc8a/other/Screenshot%202024-07-22%20180644.png)
 
 **Arduino Uno R3:** 
 
