@@ -96,11 +96,11 @@ The primary power source for the robot, supplying energy to all its modules. It 
 
 **DC to DC LM2596S Buck Converter**
 
+DC-DC buck converter is crucial in Arduino projects to efficiently reduce higher input voltages from sources like batteries or power supplies to the lower, stable voltages (e.g., 5V or 3.3V) required by Arduino boards. This regulation prevents potential damage, optimizes power efficiency by minimizing heat generation, and ensures reliable operation, especially in battery-powered applications where extending operational time is essential.
 
+![buck converter](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6a3b6f0b85c2e4f342909a756c382c16b59c9f45/other/Screenshot%202024-07-22%20183241.png)
 
 ## Code
-
-
 
 ## How to prepare the repo based on the template
 
