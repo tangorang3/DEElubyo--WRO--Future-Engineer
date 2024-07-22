@@ -31,19 +31,15 @@ In an era of rapid technological advancements, we introduce the DEElubyo bot, a 
 
 **Funny Photo**
 
-## Robot Design
+## Robot Design (Draft to Final)
 
-**3D Model**
+**3D Model (Draft)**
 
 ![3D Model](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/e23e0bc454aefcd58759c99dcca3c8f36269866a/v-photos/3D%20Model.png)  
 
-**Schematic Diagram**
+**Schematic Plan**
 
 ![Schematic Diagram](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/720f28bd67417a89f22368ee3b6f2d5549427a16/schemes/Screenshot%202024-07-08%20141758.png)
-
-**Actual Model**
-
-![actmodel](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/28103a7179e8929c8061afcaf37504025f59bc93/v-photos/Screenshot%202024-07-11%20115741.png) 
 
 ## Materials (Components)
 
@@ -90,7 +86,7 @@ Serves as the robot's eyes, identifying and avoiding obstacles in its path. By p
 
 Acts as the main brain of the robot, processing data from the camera and other sensors. It makes decisions based on this data and sends commands to the motors and steering mechanism, ensuring smooth and safe operation.
 
-![mcont]()
+![mcont](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/3d124c402bb7801d6a01589d2ee9242fafec0900/other/Screenshot%202024-07-22%20181202.png)
 
 **Lithium Battery Module:** 
 
