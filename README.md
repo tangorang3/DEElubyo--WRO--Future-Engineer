@@ -100,6 +100,10 @@ DC-DC buck converter is crucial in Arduino projects to efficiently reduce higher
 
 ![buck converter](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6a3b6f0b85c2e4f342909a756c382c16b59c9f45/other/Screenshot%202024-07-22%20183241.png)
 
+**HC-SR04 Ultrasonic Sensor**
+
+![ussensor]()
+
 ## Code
 
 ## How to prepare the repo based on the template
