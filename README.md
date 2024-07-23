@@ -31,22 +31,27 @@ In an era of rapid technological advancements, we introduce the DEElubyo bot, a 
 
 **Funny Photo**
 
-## Robot Design (Draft to Final)
+## Robot Design 
 
-**3D Model (Draft)**
+**Dafting of the Robot Design**
+
+*3D Model (Draft)*
 
 ![3D Model](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/e23e0bc454aefcd58759c99dcca3c8f36269866a/v-photos/3D%20Model.png)  
 
-**Schematic Plan**
+*Schematic Plan (Draft)*
 
 ![Schematic Diagram](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/720f28bd67417a89f22368ee3b6f2d5549427a16/schemes/Screenshot%202024-07-08%20141758.png)
 
+*Robot Draft Output*
+
+![robodraft](
+
 ## Materials (Components)
 
-**Key Components of the DEElubyo Bot:**   
+***Key Components of the DEElubyo Bot:***
 
-
-**LEGO Chassis:** 
+**LEGO Chassis:**
 
 Holds multiple parts of the robot together, providing a sturdy framework that ensures the structural integrity of the entire vehicle.
 
@@ -102,7 +107,7 @@ DC-DC buck converter is crucial in Arduino projects to efficiently reduce higher
 
 **HC-SR04 Ultrasonic Sensor**
 
-![ussensor]()
+![ussensor](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6fa5bfade2096ff5f0b12540f095a6fbf293bf5d/other/Screenshot%202024-07-22%20184657.png)
 
 ## Code
 
