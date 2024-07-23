@@ -45,7 +45,7 @@ The DEElubyo bot, a self-driving robot that's both innovative and fun. Built wit
 
 *Robot Draft Output*
 
-![robodraft](
+![robodraft](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/98b62adea7b40e568454232c2018c778c4cebe07/v-photos/Screenshot%202024-07-11%20115741.png)
 
 ## Materials (Components)
 
