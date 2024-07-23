@@ -67,7 +67,7 @@ The DEElubyo bot, a self-driving robot that's both innovative and fun. Built wit
 
 Holds multiple parts of the robot together, providing a sturdy framework that ensures the structural integrity of the entire vehicle.
 
-![chassis]()
+![chassis](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/c8753ab1ab76a8597c9ccb03adc03313dec53ddf/other/IMG_0969.jpeg)
 
 **Differential (Steering Mechanism):** 
 
