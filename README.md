@@ -15,7 +15,7 @@ This repository contains engineering materials of a self-driven vehicle's model 
 
 ## Introduction
 
-In an era of rapid technological advancements, we introduce the DEElubyo bot, a self-driving robot made entirely of LEGOs, designed to detect and avoid red and green obstacles. This innovative vehicle addresses critical transportation issues, particularly vehicle collisions caused by human error, distraction, and poor visibility. By demonstrating the potential of autonomous systems to enhance safety and decision-making, this project highlights the importance of STEM education and inspires future engineers to tackle transportation challenges, underscoring the role of technology in creating safer roads and a more efficient future.
+The DEElubyo bot, a self-driving robot that's both innovative and fun. Built with LEGO bricks for its body, powered by Arduino modules for its brain, and equipped with an AIsteam of motors, batteries, and sensors, this little robot is designed to detect and avoid red and green obstacles. The DEElubyo bot is a perfect blend of playfulness and advanced technology, showcasing how we can use creative building materials alongside serious electronics to tackle real-world problems like reducing car accidents and making our roads safer. This project isn't just about tech; it's about inspiring the next generation of engineers and technologists by combining creativity, engineering, and innovation. With the DEElubyo bot, we see how integrating different components can lead to smart solutions and highlight the importance of STEM education in shaping a better future.
 
 ## Team Details
 
@@ -106,6 +106,8 @@ DC-DC buck converter is crucial in Arduino projects to efficiently reduce higher
 ![buck converter](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6a3b6f0b85c2e4f342909a756c382c16b59c9f45/other/Screenshot%202024-07-22%20183241.png)
 
 **HC-SR04 Ultrasonic Sensor**
+
+The HC-SR04 Ultrasonic Sensor is used as an obstacle identifier and avoider. It detects obstacles by emitting ultrasonic waves and measuring the time it takes for the waves to bounce back from objects, allowing the robot to determine the presence and distance of obstacles. By continuously monitoring these distances, the sensor helps the robot navigate safely, enabling it to change direction or stop to avoid collisions, thus ensuring efficient and safe movement through its environment.
 
 ![ussensor](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6fa5bfade2096ff5f0b12540f095a6fbf293bf5d/other/Screenshot%202024-07-22%20184657.png)
 
