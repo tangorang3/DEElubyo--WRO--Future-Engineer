@@ -31,6 +31,10 @@ The DEElubyo bot, a self-driving robot that's both innovative and fun. Built wit
 
 **Funny Photo**
 
+## Step by Step Process
+
+![spsdiag]()
+
 ## Robot Design 
 
 **Dafting of the Robot Design**
