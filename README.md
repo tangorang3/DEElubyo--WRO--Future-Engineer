@@ -33,7 +33,7 @@ The DEElubyo bot, a self-driving robot that's both innovative and fun. Built wit
 
 ## Step by Step Process
 
-![spsdiag]()
+![spsdiag](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/6b794dfe25aa2774d3cc1d589902f617d293e0e2/other/IMG_0966.jpeg)
 
 ## Robot Design 
 
