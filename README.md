@@ -73,7 +73,7 @@ Holds multiple parts of the robot together, providing a sturdy framework that en
 
 Responsible for turning the front wheels, allowing the robot to steer and navigate through its environment. This mechanism enables the robot to make precise turns and maneuver around obstacles effectively.
 
-![diff]()
+![diff](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/9ece7a98e5d3ef7b1cd5ed35460dd66aad6e7de3/other/IMG_0971.jpeg)
 
 **5V Simulated Steering Module:** 
 
