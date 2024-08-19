@@ -54,7 +54,7 @@ The DEElubyo bot, a self-driving robot that's both innovative and fun. Built wit
 
 *Schematic Plan (Final Output)*
 
-![asfa](
+![asfa](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/344ddb5d40ae9364ea76c15fc784aa21812a20e0/other/455096207_2611637885693018_6196144729800765814_n.png)
 
 
 *Official Robot (Final Output)*
