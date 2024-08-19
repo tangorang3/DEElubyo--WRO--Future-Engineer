@@ -26,7 +26,7 @@ The DEElubyo bot, a self-driving robot that's both innovative and fun. Built wit
 
 **Official Photo**
 
-[afsad](
+![afsad](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/bdfc3dd7615a2a60a9e9429a8245c2a5506af373/other/455682818_7888090581310544_7226828915520586649_n.jpg)
 
 
 
