@@ -41,7 +41,7 @@ The DEElubyo bot, a self-driving robot that's both innovative and fun. Built wit
 
 *3D Model (Draft)*
 
-![3D Model](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/e23e0bc454aefcd58759c99dcca3c8f36269866a/v-photos/3D%20Model.png)  
+  
 
 *Schematic Plan (Draft)*
 
@@ -49,7 +49,6 @@ The DEElubyo bot, a self-driving robot that's both innovative and fun. Built wit
 
 *Official Robot (Draft Output)*
 
-![robodraft](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/98b62adea7b40e568454232c2018c778c4cebe07/v-photos/Screenshot%202024-07-11%20115741.png)
 
 ------------
 
