@@ -1,6 +1,3 @@
-![image](https://github.com/user-attachments/assets/0d5d8a08-bcea-4314-be11-ebde0baa07b5)Engineering materials
-====
-
 This repository contains engineering materials of a self-driven vehicle's model participating in the WRO Future Engineers competition in the season 2022.
 
 ## Content
