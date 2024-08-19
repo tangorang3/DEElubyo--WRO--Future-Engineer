@@ -54,6 +54,7 @@ The DEElubyo bot, a self-driving robot that's both innovative and fun. Built wit
 
 *Schematic Plan (Final Output)*
 
+![asfa](
 
 
 *Official Robot (Final Output)*
