@@ -128,6 +128,12 @@ The HC-SR04 Ultrasonic Sensor is used as an obstacle identifier and avoider. It 
 
 ## Code
 
+*Draft*
+
+![JRGKR](https://github.com/tangorang3/DEElubyo--WRO--Future-Engineers/blob/0dd4da67830009441264a3ae373acb6744fbaa95/other/Screenshot%202024-08-20%20040933.png)
+
+*Final*
+
 ## Video
 
 *Draft*
